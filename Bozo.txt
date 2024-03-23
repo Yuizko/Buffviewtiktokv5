@@ -1,0 +1,3 @@
+javascript:(function(){ window.location.href = "https://fluxteam.net/android/checkpoint/main.php"; })();
+
+javascript:(function() { window.location.href = "https://fluxteam.net/android/checkpoint/check1.php"; })();
